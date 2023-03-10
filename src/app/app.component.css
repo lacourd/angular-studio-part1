@@ -1,4 +1,7 @@
 .box {
     display: flex;
     padding: 10px;
+    border: 1px solid grey;
+    max-width: 800px;
+    justify-content: center;
 }
